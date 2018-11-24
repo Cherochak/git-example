@@ -1,2 +1,3 @@
 # git-example
-HI!
+
+this is some new text
